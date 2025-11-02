@@ -20,5 +20,8 @@
 
     <!-- MediatekIMS -->
     <project path="vendor/mediatek/ims" name="android_vendor_mediatek_ims" remote="JanDimple" revision="android-16" />
+   
+    <!-- Certs -->
+    <project path="certs" name="certs" remote="JanDimple" revision="main" />
 
 </manifest>
