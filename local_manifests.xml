@@ -12,7 +12,7 @@
     <project path="kernel/xiaomi/gale" name="android_kernel_xiaomi_gale" remote="JanDimple" revision="stable" />
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/gale" name="proprietary_vendor_gale" remote="JanDimple" revision="lineage-23.0" />
+    <project path="vendor/xiaomi/gale" name="proprietary_vendor_xiaomi_gale" remote="JanDimple" revision="lineage-23.0" />
 
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-23.0" />
