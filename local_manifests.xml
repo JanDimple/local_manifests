@@ -19,7 +19,7 @@
     <project path="hardware/mediatek" name="android_hardware_mediatek" remote="JanDimple" revision="lineage-23.2" />
 
     <!-- MediatekIMS -->
-    <project path="vendor/mediatek/ims" name="android_vendor_mediatek_ims" remote="JanDimple" revision="android-16" />
+    <project path="vendor/mediatek/ims" name="android_vendor_mediatek_ims" remote="JanDimple" revision="lineage-23.2" />
     
     
 </manifest>
