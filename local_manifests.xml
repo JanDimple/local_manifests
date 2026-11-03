@@ -9,14 +9,14 @@
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="LineageOS" revision="lineage-23.2" />
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/gale" name="android_kernel_xiaomi_gale" remote="JanDimple" revision="stable" />
+    <project path="kernel/xiaomi/gale" name="android_kernel_xiaomi_gale" remote="JanDimple" revision="Lineage-23.2" />
 
     <!-- Vendor -->
     <project path="vendor/xiaomi/gale" name="proprietary_vendor_xiaomi_gale" remote="JanDimple" revision="lineage-23.2" />
 
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="LineageOS" revision="lineage-23.2" />
-    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="JanDimple" revision="lineage-23.2" />
+    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="LineageOS" revision="lineage-23.2" />
 
     <!-- MediatekIMS -->
     <project path="vendor/mediatek/ims" name="android_vendor_mediatek_ims" remote="JanDimple" revision="lineage-23.2" />
